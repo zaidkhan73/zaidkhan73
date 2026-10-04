@@ -28,17 +28,20 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Langflow-4B4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 <br/>
@@ -78,6 +81,9 @@
 |--------------|-------------|------------|------|
 | 🧾 **Claridoc** | A platform to summarise your PDFs.| Next.js, Postgre SQL, Langchain | [🔗 View Repo](https://github.com/zaidkhan73/claridoc.git) |
 | 🍴 **Forksy** | A multivendor online food delivery application, whith interface for customer, vendor and delivery Boy. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/zaidkhan73/forksy.git) |
+| 🌸 RutuChakra | An AI-powered PCOD prediction and lifestyle guidance system that estimates PCOD risk using machine learning and provides personalized lifestyle recommendations. | React, JavaScript, Flask, Python, Scikit-learn, langhcain, langgraph, RAG | [🔗 View Repo](https://github.com/zaidkhan73/rutuchakra.git) |
+| 🛍️ **RutuChakra E-commerce** | A client-focused e-commerce platform featuring product browsing, shopping cart management, and secure online payment integration. | React, Node.js, Express.js, MongoDB, Razorpay | [🔗 View Repo](https://github.com/zaidkhan73/ecommerce.git) |
+
 
 
 ---
